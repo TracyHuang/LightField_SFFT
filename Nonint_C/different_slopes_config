@@ -1,0 +1,9 @@
+machine_index=(0 1 2 3 4 5 7 11)
+load=(         3 7 7 4 7 4 6 7)
+
+num_machines=8
+config_file=crystal.cfg
+
+
+foldername=LightField_140724_1510
+foldername=LightField_140725_0212
